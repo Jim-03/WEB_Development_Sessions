@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-image: url(Login.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    height:100rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+form{
+    display: flex;
+    justify-content: center;
+
+}
+div{
+    height:50px;
+    max-width: 100%;
+    min-width: 50%;
+}
+button{
+    width:100%;
+}
+.Login-credentials
+{
+padding: 10px;
+margin-top:10px;
+}
